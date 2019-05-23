@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Dijkstra's Algorithm.unity
+  isLoaded: 1
+  isActive: 1
